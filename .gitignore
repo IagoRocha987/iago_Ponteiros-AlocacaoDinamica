@@ -1,0 +1,14 @@
+# C compiled files
+*.o
+*.out
+*.exe
+*.so
+*.dylib
+*.a
+
+# Build directory
+build/
+
+# Replit
+.replit
+replit.nix
